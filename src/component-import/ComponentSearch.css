@@ -1,0 +1,48 @@
+.input-info {
+    display: flex;
+    justify-content: center;
+    height: 45px;
+    margin-bottom: 25px;
+}
+
+.input-info > span {
+    background-color: #fff;
+    padding: 15px 0.75rem;
+    color: black;
+    display: flex;
+    justify-items: center;
+    line-height: 1;
+}
+
+.input-info > input  {
+    width: 25%;
+   
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: none;
+    appearance: none;
+    border-left: .5px #ccc solid;
+}
+
+.input-info > input:focus {
+    outline: none;
+}
+
+.table-data-container {
+
+}
+
+.table-search {
+    bottom: 0;
+    width: 100%;
+    background-color: #fff;
+    overflow: auto;
+    white-space: nowrap;
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}

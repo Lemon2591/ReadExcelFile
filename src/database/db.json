@@ -1,0 +1,324 @@
+{
+  "datastudent": [
+    {
+      "STT": "1",
+      "Trường Tiểu học": "Dịch Vọng B",
+      "Quận/Huyện": "Cầu Giấy",
+      "Mã học sinh": "01176ANHU",
+      "Lớp": "5A7",
+      "Họ và tên": "Đặng Mỹ Kiều Trinh",
+      "Ngày sinh": {
+        "Ngày": "15",
+        "Tháng": "10",
+        "Năm": "2011"
+      },
+      "Giới": "Nữ",
+      "Nơi sinh": "Hà Nội",
+      "Dân tộc": "Kinh",
+      "Hộ khẩu thường trú": "Tổ 3 - Quan Hoa - Cầu Giấy - Hà Nội",
+      "Điện thoại liên hệ": "0976494648",
+      "Điểm sơ tuyển vòng 1": {
+        "Tổng điểm năm lớp 1": [
+          14
+        ],
+        "Tổng điểm năm lớp 2": "20",
+        "Tổng điểm năm lớp 3": "30",
+        "Tổng điểm năm lớp 4": "50",
+        "Tổng điểm năm lớp 5": "50",
+        "Tổng điểm kết quả 5 năm": "170",
+        "Điểm ưu tiên": "",
+        "Tổng điểm sơ tuyển": "170"
+      },
+      "Ghi chú": "Đủ điều kiện dự thi vòng 2",
+      "id": 1
+    },
+    {
+      "STT": "2",
+      "Trường Tiểu học": "Dịch Vọng B",
+      "Quận/Huyện": "Cầu Giấy",
+      "Mã học sinh": "11176ANHU",
+      "Lớp": "5A7",
+      "Họ và tên": "Đặng Mỹ Kiều Trinh",
+      "Ngày sinh": {
+        "Ngày": "15",
+        "Tháng": "10",
+        "Năm": "2011"
+      },
+      "Giới": "Nữ",
+      "Nơi sinh": "Hà Nội",
+      "Dân tộc": "Kinh",
+      "Hộ khẩu thường trú": "Tổ 3 - Quan Hoa - Cầu Giấy - Hà Nội",
+      "Điện thoại liên hệ": "0976494648",
+      "Điểm sơ tuyển vòng 1": {
+        "Tổng điểm năm lớp 1": [
+          14
+        ],
+        "Tổng điểm năm lớp 2": "20",
+        "Tổng điểm năm lớp 3": "30",
+        "Tổng điểm năm lớp 4": "50",
+        "Tổng điểm năm lớp 5": "50",
+        "Tổng điểm kết quả 5 năm": "170",
+        "Điểm ưu tiên": "",
+        "Tổng điểm sơ tuyển": "170"
+      },
+      "Ghi chú": "Đủ điều kiện dự thi vòng 2",
+      "id": 2
+    },
+    {
+      "STT": "3",
+      "Trường Tiểu học": "Dịch Vọng B",
+      "Quận/Huyện": "Cầu Giấy",
+      "Mã học sinh": "21176ANHU",
+      "Lớp": "5A7",
+      "Họ và tên": "Nguyễn Thị Lệ",
+      "Ngày sinh": {
+        "Ngày": "15",
+        "Tháng": "10",
+        "Năm": "2011"
+      },
+      "Giới": "Nữ",
+      "Nơi sinh": "Hà Nội",
+      "Dân tộc": "Kinh",
+      "Hộ khẩu thường trú": "Tổ 3 - Quan Hoa - Cầu Giấy - Hà Nội",
+      "Điện thoại liên hệ": "0976494648",
+      "Điểm sơ tuyển vòng 1": {
+        "Tổng điểm năm lớp 1": [
+          14
+        ],
+        "Tổng điểm năm lớp 2": "20",
+        "Tổng điểm năm lớp 3": "30",
+        "Tổng điểm năm lớp 4": "50",
+        "Tổng điểm năm lớp 5": "50",
+        "Tổng điểm kết quả 5 năm": "170",
+        "Điểm ưu tiên": "",
+        "Tổng điểm sơ tuyển": "170"
+      },
+      "Ghi chú": "Đủ điều kiện dự thi vòng 2",
+      "id": 3
+    },
+    {
+      "STT": "4",
+      "Trường Tiểu học": "Dịch Vọng B",
+      "Quận/Huyện": "Cầu Giấy",
+      "Mã học sinh": "31176ANHU",
+      "Lớp": "5A7",
+      "Họ và tên": "Trần Văn Anh",
+      "Ngày sinh": {
+        "Ngày": "15",
+        "Tháng": "10",
+        "Năm": "2011"
+      },
+      "Giới": "Nữ",
+      "Nơi sinh": "Hà Nội",
+      "Dân tộc": "Kinh",
+      "Hộ khẩu thường trú": "Tổ 3 - Quan Hoa - Cầu Giấy - Hà Nội",
+      "Điện thoại liên hệ": "0976494648",
+      "Điểm sơ tuyển vòng 1": {
+        "Tổng điểm năm lớp 1": [
+          14
+        ],
+        "Tổng điểm năm lớp 2": "20",
+        "Tổng điểm năm lớp 3": "30",
+        "Tổng điểm năm lớp 4": "50",
+        "Tổng điểm năm lớp 5": "50",
+        "Tổng điểm kết quả 5 năm": "170",
+        "Điểm ưu tiên": "",
+        "Tổng điểm sơ tuyển": "170"
+      },
+      "Ghi chú": "Đủ điều kiện dự thi vòng 2",
+      "id": 4
+    },
+    {
+      "STT": "5",
+      "Trường Tiểu học": "Dịch Vọng B",
+      "Quận/Huyện": "Cầu Giấy",
+      "Mã học sinh": "41176ANHU",
+      "Lớp": "5A7",
+      "Họ và tên": "Nguyến Yến Nhi",
+      "Ngày sinh": {
+        "Ngày": "15",
+        "Tháng": "10",
+        "Năm": "2011"
+      },
+      "Giới": "Nữ",
+      "Nơi sinh": "Hà Nội",
+      "Dân tộc": "Kinh",
+      "Hộ khẩu thường trú": "Tổ 3 - Quan Hoa - Cầu Giấy - Hà Nội",
+      "Điện thoại liên hệ": "0976494648",
+      "Điểm sơ tuyển vòng 1": {
+        "Tổng điểm năm lớp 1": [
+          14
+        ],
+        "Tổng điểm năm lớp 2": "20",
+        "Tổng điểm năm lớp 3": "30",
+        "Tổng điểm năm lớp 4": "50",
+        "Tổng điểm năm lớp 5": "50",
+        "Tổng điểm kết quả 5 năm": "170",
+        "Điểm ưu tiên": "",
+        "Tổng điểm sơ tuyển": "170"
+      },
+      "Ghi chú": "Đủ điều kiện dự thi vòng 2",
+      "id": 5
+    },
+    {
+      "STT": "6",
+      "Trường Tiểu học": "Dịch Vọng B",
+      "Quận/Huyện": "Cầu Giấy",
+      "Mã học sinh": "51176ANHU",
+      "Lớp": "5A7",
+      "Họ và tên": "Nguyễn Ngọc Trinh",
+      "Ngày sinh": {
+        "Ngày": "15",
+        "Tháng": "10",
+        "Năm": "2011"
+      },
+      "Giới": "Nữ",
+      "Nơi sinh": "Hà Nội",
+      "Dân tộc": "Kinh",
+      "Hộ khẩu thường trú": "Tổ 3 - Quan Hoa - Cầu Giấy - Hà Nội",
+      "Điện thoại liên hệ": "0976494648",
+      "Điểm sơ tuyển vòng 1": {
+        "Tổng điểm năm lớp 1": [
+          14
+        ],
+        "Tổng điểm năm lớp 2": "20",
+        "Tổng điểm năm lớp 3": "30",
+        "Tổng điểm năm lớp 4": "50",
+        "Tổng điểm năm lớp 5": "50",
+        "Tổng điểm kết quả 5 năm": "170",
+        "Điểm ưu tiên": "",
+        "Tổng điểm sơ tuyển": "170"
+      },
+      "Ghi chú": "Đủ điều kiện dự thi vòng 2",
+      "id": 6
+    },
+    {
+      "STT": "7",
+      "Trường Tiểu học": "Dịch Vọng B",
+      "Quận/Huyện": "Cầu Giấy",
+      "Mã học sinh": "61176ANHU",
+      "Lớp": "5A7",
+      "Họ và tên": "Sobin Hoàng Sơn",
+      "Ngày sinh": {
+        "Ngày": "15",
+        "Tháng": "10",
+        "Năm": "2011"
+      },
+      "Giới": "Nữ",
+      "Nơi sinh": "Hà Nội",
+      "Dân tộc": "Kinh",
+      "Hộ khẩu thường trú": "Tổ 3 - Quan Hoa - Cầu Giấy - Hà Nội",
+      "Điện thoại liên hệ": "0976494648",
+      "Điểm sơ tuyển vòng 1": {
+        "Tổng điểm năm lớp 1": [
+          14
+        ],
+        "Tổng điểm năm lớp 2": "20",
+        "Tổng điểm năm lớp 3": "30",
+        "Tổng điểm năm lớp 4": "50",
+        "Tổng điểm năm lớp 5": "50",
+        "Tổng điểm kết quả 5 năm": "170",
+        "Điểm ưu tiên": "",
+        "Tổng điểm sơ tuyển": "170"
+      },
+      "Ghi chú": "Đủ điều kiện dự thi vòng 2",
+      "id": 7
+    },
+    {
+      "STT": "8",
+      "Trường Tiểu học": "Dịch Vọng B",
+      "Quận/Huyện": "Cầu Giấy",
+      "Mã học sinh": "71176ANHU",
+      "Lớp": "5A7",
+      "Họ và tên": "Đàm Vĩnh Hưng",
+      "Ngày sinh": {
+        "Ngày": "15",
+        "Tháng": "10",
+        "Năm": "2011"
+      },
+      "Giới": "Nữ",
+      "Nơi sinh": "Hà Nội",
+      "Dân tộc": "Kinh",
+      "Hộ khẩu thường trú": "Tổ 3 - Quan Hoa - Cầu Giấy - Hà Nội",
+      "Điện thoại liên hệ": "0976494648",
+      "Điểm sơ tuyển vòng 1": {
+        "Tổng điểm năm lớp 1": [
+          14
+        ],
+        "Tổng điểm năm lớp 2": "20",
+        "Tổng điểm năm lớp 3": "30",
+        "Tổng điểm năm lớp 4": "50",
+        "Tổng điểm năm lớp 5": "50",
+        "Tổng điểm kết quả 5 năm": "170",
+        "Điểm ưu tiên": "",
+        "Tổng điểm sơ tuyển": "170"
+      },
+      "Ghi chú": "Đủ điều kiện dự thi vòng 2",
+      "id": 8
+    },
+    {
+      "STT": "9",
+      "Trường Tiểu học": "Dịch Vọng B",
+      "Quận/Huyện": "Cầu Giấy",
+      "Mã học sinh": "81176ANHU",
+      "Lớp": "5A7",
+      "Họ và tên": "Hồ Quang Hiếu",
+      "Ngày sinh": {
+        "Ngày": "15",
+        "Tháng": "10",
+        "Năm": "2011"
+      },
+      "Giới": "Nữ",
+      "Nơi sinh": "Hà Nội",
+      "Dân tộc": "Kinh",
+      "Hộ khẩu thường trú": "Tổ 3 - Quan Hoa - Cầu Giấy - Hà Nội",
+      "Điện thoại liên hệ": "0976494648",
+      "Điểm sơ tuyển vòng 1": {
+        "Tổng điểm năm lớp 1": [
+          14
+        ],
+        "Tổng điểm năm lớp 2": "20",
+        "Tổng điểm năm lớp 3": "30",
+        "Tổng điểm năm lớp 4": "50",
+        "Tổng điểm năm lớp 5": "50",
+        "Tổng điểm kết quả 5 năm": "170",
+        "Điểm ưu tiên": "",
+        "Tổng điểm sơ tuyển": "170"
+      },
+      "Ghi chú": "Đủ điều kiện dự thi vòng 2",
+      "id": 9
+    },
+    {
+      "STT": "10",
+      "Trường Tiểu học": "Dịch Vọng B",
+      "Quận/Huyện": "Cầu Giấy",
+      "Mã học sinh": "91176ANHU",
+      "Lớp": "5A7",
+      "Họ và tên": "Bằng Kiều",
+      "Ngày sinh": {
+        "Ngày": "15",
+        "Tháng": "10",
+        "Năm": "2011"
+      },
+      "Giới": "Nữ",
+      "Nơi sinh": "Hà Nội",
+      "Dân tộc": "Kinh",
+      "Hộ khẩu thường trú": "Tổ 3 - Quan Hoa - Cầu Giấy - Hà Nội",
+      "Điện thoại liên hệ": "0976494648",
+      "Điểm sơ tuyển vòng 1": {
+        "Tổng điểm năm lớp 1": [
+          14
+        ],
+        "Tổng điểm năm lớp 2": "20",
+        "Tổng điểm năm lớp 3": "30",
+        "Tổng điểm năm lớp 4": "50",
+        "Tổng điểm năm lớp 5": "50",
+        "Tổng điểm kết quả 5 năm": "170",
+        "Điểm ưu tiên": "",
+        "Tổng điểm sơ tuyển": "170"
+      },
+      "Ghi chú": "Đủ điều kiện dự thi vòng 2",
+      "id": 10
+    }
+  ]
+}
